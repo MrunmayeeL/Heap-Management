@@ -29,4 +29,4 @@ This project implements a dynamic heap memory manager using the **Buddy Allocati
 
 ### Compilation
 ```bash
-gcc -o heap_manager new3.c
+gcc -o heap_manager heap_management.c
